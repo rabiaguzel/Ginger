@@ -16,6 +16,7 @@ Displays a "You Win!" message upon reaching level 3.
 
 Ginger - 2D Tilevania Oyunu
 Oyun Kuralları:
+![Ekran görüntüsü 2024-06-13 102120](https://github.com/user-attachments/assets/153c4753-d681-40a6-b188-624daede2c5b)
 
 Ginger adında 3 canlı bir karakter.
 Tuzaklara veya canavarlara temas ettiğinde bir can kaybeder. Canı sıfırlanırsa 1. levelden başlar.
