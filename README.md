@@ -14,6 +14,8 @@ Displays a "You Win!" message upon reaching level 3.
 - **Retro Graphics:** Pixel art graphics with a nostalgic feel.
 - **Coin Pick Up Music:** Engaging pick upmusic to enhance the gaming experience.
 
+-----
+
 Ginger - 2D Tilevania Oyunu
 Oyun Kuralları:
 
@@ -23,7 +25,7 @@ Canavarları öldürmek için ateş edebilir.
 Coin'leri toplayarak puan kazanabilir.
 seviyeye ulaştığında "Kazandın!" mesajı görüntülenir.
 
-##Özellikler
+## Özellikler
 Çoklu Seviyeler: Zorluk seviyesi artan çeşitli seviyeler.
 Düşmanlar: Farklı türlerde düşmanlar.
 Düzgün Kontroller: Harika bir oyun deneyimi için duyarlı ve sezgisel kontroller.
